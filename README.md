@@ -1,4 +1,4 @@
-# MySQL
+# Hospital Database 
 
 Tables:
 1. candidate - Has basic candidates information which includes the following attributes:
